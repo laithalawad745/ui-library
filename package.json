@@ -1,6 +1,6 @@
 {
   "name": "laithfr2lr-ui-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "مكتبة UI مخصصة",
   "type": "module",
   "main": "./dist/index.js",
@@ -14,7 +14,9 @@
     },
     "./style.css": "./dist/style.css"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "vite build",
     "dev": "vite build --watch"
@@ -23,7 +25,12 @@
     "type": "git",
     "url": "git+https://github.com/laithalawad745/ui-library.git"
   },
-  "keywords": ["react", "ui", "components", "tailwind"],
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "tailwind"
+  ],
   "author": "Laith Alawad",
   "license": "MIT",
   "peerDependencies": {
