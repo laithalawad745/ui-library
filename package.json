@@ -1,6 +1,6 @@
 {
   "name": "laithfr2lr-ui-library",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "مكتبة UI مخصصة",
   "type": "module",
   "main": "./dist/index.js",
